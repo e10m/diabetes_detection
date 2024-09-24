@@ -1,4 +1,4 @@
-# Diabetes Detection Pipeline and Visualization
+# Diabetes Detection and Visualization Pipeline
 
 ## Table of Contents
 - [Dataset Overview](#dataset-overview)
